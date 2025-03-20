@@ -8,7 +8,7 @@ Itch.io link: [https://sacredstudios.itch.io/otherside](https://sacredstudios.it
 ### The Spooky Squad
 
 * Product Owner: Evan Del Carmen [@ebdelca](https://github.com/ebdelca)
-* Scrum Master (and owner of this repo): Samantha Lin [@Seraclin](https://github.com/Seraclin)
+* Scrum Master (and owner of this repo): Samantha Lin [@SuperbGecko](https://github.com/SuperbGecko)
 * Team Members: (Clown) Jessie Coleman [@SacredStudios](https://github.com/SacredStudios), James Song [@Sirious1y](https://github.com/Sirious1y), Miguel Simbahan [@Minuslight](https://github.com/Minuslight), Steve Wang [@steve-z-wang](https://github.com/steve-z-wang)
 
 
